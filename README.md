@@ -1,26 +1,12 @@
 # COMM4190 Spring 2025 - Research Project
 
-* Use this repository for your Research Project
-
-
 ### Overview
 
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
+This project explores the capabilities of Large Language Models (LLMs) within the field of marketing. While marketing applications of LLMs span a wide range of areas—including targeting, personalization, content generation, and ad optimization—this paper focuses specifically on personalization and content creation. These two areas are particularly well-suited to LLMs, as they rely on the models' generative and creative strengths to produce tailored marketing content based on detailed consumer profiles.
 
+The study begins with a literature review to assess the current state of research and practice. Building on this foundation, I conducted multiple rounds of testing using a variety of LLMs to evaluate their effectiveness across different marketing scenarios. The goal is to derive insights into the present capabilities and limitations of LLMs in AI-driven marketing, and to identify practical ways they can support business needs more effectively.
 
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
----
-
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
+[Final Paper](finalPaper.ipynb)
+[Bibliography](bibliography.ipynb)
+[Testing with LLMs](testingResults.ipynb)
 
