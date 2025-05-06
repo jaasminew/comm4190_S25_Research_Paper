@@ -6,6 +6,8 @@ This project explores the capabilities of Large Language Models (LLMs) within th
 
 The study begins with a literature review to assess the current state of research and practice. Building on this foundation, I conducted multiple rounds of testing using a variety of LLMs to evaluate their effectiveness across different marketing scenarios. The goal is to derive insights into the present capabilities and limitations of LLMs in AI-driven marketing, and to identify practical ways they can support business needs more effectively.
 
+All the testing codes are kept in the llm-testing folders. Please refer to it if you would like to know more details.
+
 [Final Paper](finalPaper.ipynb)
 
 [Bibliography](bibliography.ipynb)
